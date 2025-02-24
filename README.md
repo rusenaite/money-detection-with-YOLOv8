@@ -17,5 +17,5 @@ Required libraries and packages to run the project:
 
 ## Usage
 
-1. Update the `image_path` in `detect_money()` with your image file path.
-2. Run the script to see detected results and statistics.
+1. Update the `image_path` in `detect_money()` in ```money_detector.ipynb``` with your image file path.
+2. Run cells in same file ```money_detector.ipynb``` to see detected results and statistics.
